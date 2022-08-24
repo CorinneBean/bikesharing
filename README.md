@@ -24,7 +24,7 @@ In the above image we can see that more than 3/4 of the users are **Subscribers*
 
 This chart displays the number of bike rides initiated during each hour of the day, and check out times by gender. We can see peak usage during morning rush hour and end-of-workday commute times. What is also of note is the low-usage hours between 2 AM and 5 AM. These hours would be the best times to conduct **bike repairs** and **redistribution** of bikes from full stations to less-full stations.
 ***
-![NYC CitiBike Peak Use Hours](Images/trips_by_weekday)
+![NYC CitiBike Peak Use Hours](Images/trips_by_weekday.png)
 
 A heatmap also helps show weekly usage patterns. Once again we can see the heavy bike usage during **weekday commute times**, and weekend usage is spread throughout the middle of the day.
 
